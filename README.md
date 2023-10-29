@@ -1,5 +1,5 @@
 # Node Express API
-Um exemplo de API simples com arquitetura MVC.
+Um exemplo de API simples, abordando apenas os pontos principais como arquitetura de pastas e arquivos, definição de testes e funcionalidade básica de cada rota.
 
 ## Requisitos
  - Node.js (recomendado v14+)
@@ -71,6 +71,7 @@ Para rodar os testes unitários:
  - Uma boa análise da regra de negocio com detalhamento de fluxos.
 
 ## Implementações para o futuro:
+ - Implementar todas as outras funcionalidades que faltaram, como: soft-delete, paginação ...
  - Validação de entrada dados
  - Definição de dados de saída
  - Criar tests unitários e de integração com cobertura mínima de X%
